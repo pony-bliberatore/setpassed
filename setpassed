@@ -1,0 +1,3 @@
+#!/bin/bash
+
+~/bin/gam/gam update user $1 PONY.background_check_passed TRUE
